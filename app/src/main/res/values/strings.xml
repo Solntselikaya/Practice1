@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practice1</string>
+    <string name="sign_up">Sign up</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="what_brings_you">What Brings you</string>
+    <string name="to_silent_moon">to Silent Moon?</string>
+    <string name="background_cloud_image">background cloud image</string>
+    <string name="choose_a_topic_to_focuse_on">choose a topic to focuse on:</string>
+</resources>
